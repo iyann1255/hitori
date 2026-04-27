@@ -12,7 +12,7 @@ const __filename = fileURLToPath(import.meta.url);
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6289516947207',639615925065'] // ['628','628'] 2 owner atau lebih
+global.owner = ['6289516947207','639615925065'] // ['628','628'] 2 owner atau lebih
 global.author = 'assistant'
 global.botname = ' Bot'
 global.packname = 'Bot WhatsApp'
